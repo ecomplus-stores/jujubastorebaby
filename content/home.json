@@ -1,13 +1,13 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Jujuba - Moda Infantil",
+  "meta_description": "Jujuba - Moda Infantil",
   "sections": [
     {
       "type": "brands-carousel",
-      "limit": 6,
+      "limit": 8,
       "offset": 0,
-      "sort": "name",
-      "autoplay": 2000
+      "sort": null,
+      "autoplay": 0
     },
     {
       "type": "info-bar",
