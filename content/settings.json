@@ -1,12 +1,12 @@
 {
   "domain": "https://www.jujubastorebaby.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#f5f2d0",
+  "primary_color": "#d4d0f5",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "niche-baby"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#f5f2d0",
   "logo": "/img/uploads/whatsapp-image-2022-09-21-at-15.36.14.jpeg",
   "name": "Jujuba - Moda Infantil",
   "short_name": "jujubastorebaby",
