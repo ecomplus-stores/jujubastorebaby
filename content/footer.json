@@ -4,7 +4,7 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "CONTATOS",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -27,20 +27,20 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
-    "visa": true,
-    "boleto": true,
+    "bb": false,
+    "visa": false,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
-    "mastercard": true,
+    "mastercard": false,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
