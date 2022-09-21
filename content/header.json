@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "5%  DE DESCONTO NOS PAGAMENTOS VIA PIX!",
-    "link": ""
+    "link": "https://api.whatsapp.com/send?1=pt_BR&phone=5514996922408"
   },
   "contacts_stripe": {
     "pages": [],
