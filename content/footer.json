@@ -15,9 +15,9 @@
   },
   "contacts": {
     "title": "CONTATOS",
-    "phone_wpp": false,
-    "socials": false,
-    "email": false,
+    "phone_wpp": true,
+    "socials": true,
+    "email": true,
     "address": true
   },
   "stamps": [],
