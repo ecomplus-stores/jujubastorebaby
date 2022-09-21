@@ -15,17 +15,12 @@
   },
   "contacts": {
     "title": "CONTATOS",
-    "phone_wpp": true,
-    "socials": true,
-    "email": true,
+    "phone_wpp": false,
+    "socials": false,
+    "email": false,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": false,
