@@ -1,25 +1,25 @@
 {
   "domain": "jujubastorebaby.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#f5f2d0",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-original.png",
   "name": "jujubastorebaby",
   "short_name": "jujubastorebaby",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "font_family": "Outfit",
+  "favicon": "/img/uploads/logo-original.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#fe4164",
+  "icon": "/img/uploads/logo-original.png",
   "store_id": 8192,
-  "description": "jujubastorebaby",
-  "large_icon": "/img/large-icon.png"
+  "description": "Jujuba - Moda Infantil",
+  "large_icon": "/img/uploads/logo-original.png"
 }
