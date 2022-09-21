@@ -1,7 +1,7 @@
 {
   "domain": "https://www.jujubastorebaby.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#d4d0f5",
+  "primary_color": "#000002",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "niche-baby"
