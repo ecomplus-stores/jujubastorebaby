@@ -1,5 +1,6 @@
 {
-  "domain": "https://www.jujubastorebaby.com.br",
+  "domain": "www.jujubastorebaby.com.br",
+  "repository": "ecomplus-stores/jujubastorebaby",
   "currency_symbol": "R$",
   "primary_color": "#000002",
   "theme": {
