@@ -27,6 +27,11 @@
       "type": "page-title",
       "title": "Jujuba - Moda Infantil",
       "description": "Vestindo meninos e meninas com conforto e qualidade!"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2022-09-21-at-19.09.23-2-.jpeg",
+      "mobile_img": "/img/uploads/whatsapp-image-2022-09-21-at-19.09.23-2-.jpeg"
     }
   ]
 }
