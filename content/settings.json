@@ -1,13 +1,13 @@
 {
   "domain": "www.jujubastorebaby.com.br",
-  "repository": "ecomplus-stores/jujubastorebaby",
   "currency_symbol": "R$",
-  "primary_color": "#000002",
+  "primary_color": "#fe4164",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "niche-baby"
   },
   "bg_color": "#111001",
+  "repository": "ecomplus-stores/jujubastorebaby",
   "logo": "/img/uploads/whatsapp-image-2022-09-21-at-15.36.14.jpeg",
   "name": "Jujuba - Moda Infantil",
   "short_name": "jujubastorebaby",
