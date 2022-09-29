@@ -20,21 +20,26 @@
     "email": true,
     "address": true
   },
-  "stamps": [],
+  "stamps": [
+    {}
+  ],
   "payment_methods": {
     "bb": false,
-    "visa": false,
+    "visa": true,
     "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": false,
-    "hipercard": false,
+    "elo": true,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": false,
+    "mastercard": true,
     "citibank": false,
+    "hiper": true,
+    "diners": true,
     "mais": false,
+    "amex": true,
     "itau": false
   },
   "credits": ""
