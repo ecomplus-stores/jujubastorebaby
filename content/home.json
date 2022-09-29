@@ -60,6 +60,11 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/gap-logo-azul.jpg",
+          "mobile_img": "/img/uploads/gap-logo-azul.jpg",
+          "link": "https://www.jujubastorebaby.com.br/gap"
+        },
+        {
           "link": "https://www.jujubastorebaby.com.br/carters",
           "mobile_img": "/img/uploads/carter-s-logo-azul.jpg",
           "img": "/img/uploads/carter-s-logo-azul.jpg"
@@ -73,11 +78,6 @@
           "link": "https://www.jujubastorebaby.com.br/quimby",
           "img": "/img/uploads/logo-quimby-768x183.png",
           "mobile_img": "/img/uploads/logo-quimby-768x183.png"
-        },
-        {
-          "img": "/img/uploads/gap-logo-azul.jpg",
-          "mobile_img": "/img/uploads/gap-logo-azul.jpg",
-          "link": "https://www.jujubastorebaby.com.br/gap"
         }
       ]
     }
