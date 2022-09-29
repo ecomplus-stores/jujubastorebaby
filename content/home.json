@@ -29,9 +29,29 @@
       "description": "Vestindo meninos e meninas com conforto e qualidade!"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2022-09-21-at-19.09.23-2-.jpeg",
-      "mobile_img": "/img/uploads/whatsapp-image-2022-09-21-at-19.09.23-2-.jpeg"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "link": "https://www.jujubastorebaby.com.br/carters",
+          "mobile_img": "/img/uploads/carter-s-logo-azul.jpg",
+          "img": "/img/uploads/carter-s-logo-azul.jpg"
+        },
+        {
+          "link": "https://www.jujubastorebaby.com.br/up-baby",
+          "img": "/img/uploads/up-baby-logo-rose.jpg",
+          "mobile_img": "/img/uploads/up-baby-logo-rose.jpg"
+        },
+        {
+          "link": "https://www.jujubastorebaby.com.br/quimby",
+          "img": "/img/uploads/logo-quimby-768x183.png",
+          "mobile_img": "/img/uploads/logo-quimby-768x183.png"
+        },
+        {
+          "img": "/img/uploads/gap-logo-branca.jpg",
+          "mobile_img": "/img/uploads/gap-logo-branca.jpg",
+          "link": "https://www.jujubastorebaby.com.br/gap"
+        }
+      ]
     }
   ]
 }
