@@ -11,12 +11,17 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/carters?CARTER'S",
+      "/gap?GAP",
+      "/up-baby?UP BABY",
+      "/quimby?QUIMBY"
+    ],
     "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": false,
+  "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
 }
