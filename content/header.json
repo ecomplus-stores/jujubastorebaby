@@ -3,7 +3,7 @@
     "text": "5%  DE DESCONTO NOS PAGAMENTOS VIA PIX!",
     "link": "https://api.whatsapp.com/send?1=pt_BR&phone=5514996922408",
     "background": "#fe4164",
-    "color": ""
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
