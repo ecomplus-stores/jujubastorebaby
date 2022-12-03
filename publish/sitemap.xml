@@ -740,12 +740,6 @@
     </url>
   
     <url>
-      <loc>https://www.jujubastorebaby.com.br/body-up-baby-em-ribana-bege</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.jujubastorebaby.com.br/vestido-off-white</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -759,12 +753,6 @@
   
     <url>
       <loc>https://www.jujubastorebaby.com.br/macacao-menina-floral</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.jujubastorebaby.com.br/body-up-baby-azul</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -879,6 +867,12 @@
   
     <url>
       <loc>https://www.jujubastorebaby.com.br/body-up-baby-branco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.jujubastorebaby.com.br/body-up-baby-azul</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
