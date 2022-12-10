@@ -5,11 +5,16 @@
   gtag('js', new Date());
   if (location.pathname === '/app/') {
     gtag('config', 'G-9JVY3Y23CC', {
+      cookie_domain: location.hostname,
+      cookie_flags: 'SameSite=None;Secure',
       send_page_view: location.hash.substr(1, 8) === '/account',
       page_path: location.hash.substr(1)
     });
   } else {
-    gtag('config', 'G-9JVY3Y23CC');
+    gtag('config', 'G-9JVY3Y23CC', {
+      cookie_domain: location.hostname,
+      cookie_flags: 'SameSite=None;Secure'
+    });
   }</script><script>!function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
