@@ -73,6 +73,14 @@
       "type": "page-title",
       "title": "Jujuba - Moda Infantil",
       "description": "Vestindo meninos e meninas com conforto e qualidade!"
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {}
+      ],
+      "title": "Avaliações de Clientes"
     }
   ]
 }
