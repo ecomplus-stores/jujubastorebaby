@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Peça pelo WhatsApp e ganhe frete grátis! Clique aqui."
+    "text": "Peça pelo WhatsApp e ganhe frete grátis! Clique aqui.",
+    "link": "https://api.whatsapp.com/send?1=pt_BR&phone=5514996922408"
   },
   "installments": {
     "show": true,
-    "text": "Pague pelo link de pagamento e ganhe Frete grátis "
+    "text": "Pague pelo link de pagamento e ganhe Frete grátis ",
+    "link": "https://api.whatsapp.com/send?1=pt_BR&phone=5514996922408"
   },
   "exchange": {
     "show": false,
@@ -13,6 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": " Oferta por tempo limitado!",
+    "link": "https://api.whatsapp.com/send?1=pt_BR&phone=5514996922408"
   }
 }
