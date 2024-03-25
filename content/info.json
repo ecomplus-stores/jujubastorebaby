@@ -1,15 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Peça pelo WhatsApp e ganhe frete grátis! Clique aqui."
   },
   "installments": {
     "show": true,
-    "text": "Parcelamos em até 10x para você"
+    "text": "Pague pelo link de pagamento e ganhe Frete grátis "
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": " Parcelamos em até 10x para você no link de pagamento"
   },
   "promo": {
     "show": true,
