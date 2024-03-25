@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Acima de R$199,90 - FRETE GRÁTIS - Consulte sua região!",
+    "text": "Acima de R$199,90 - FRETE GRÁTIS ",
     "link": "https://api.whatsapp.com/send?1=pt_BR&phone=5514996922408",
     "background": "#fe4164",
     "color": "#ffffff"
