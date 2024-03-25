@@ -3,6 +3,11 @@
   "meta_description": "Jujuba - Moda Infantil",
   "sections": [
     {
+      "type": "page-title",
+      "description": "",
+      "title": "Quer condições especiais, frete grátis ou parcelamento no cartão? Entre em contato pelo whatsapp!"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
