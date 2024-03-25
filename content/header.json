@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "FRETE GRÁTIS TE ESPERANDO ! ",
+    "text": "PEÇA PELO WHATSAPP E GANHE FRETE GRÁTIS! CLIQUE AQUI",
     "link": "https://api.whatsapp.com/send?1=pt_BR&phone=5514996922408",
     "background": "#fe4164",
     "color": "#ffffff"
