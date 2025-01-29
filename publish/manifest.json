@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7c0e808c37cd1e54a1cb0c855a5cabaa.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.ffb993a298fdf1a135b05c7d4fbd73ff.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.822b95594b8338c1ca014b1012366ff3.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.5759f3cb43d93dd153089045fa471ce4.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.2a4c6ebe080509d735df635a2be2a1df.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Jujuba - Moda Infantil",
+  "short_name": "jujubastorebaby",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Jujuba - Moda Infantil",
+  "background_color": "#111001",
+  "theme_color": "#fe4164"
+}
